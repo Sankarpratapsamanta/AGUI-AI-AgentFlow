@@ -1,0 +1,8 @@
+langgraph
+langchain-groq
+langchain-core
+python-dotenv
+simpleeval
+fastapi
+uvicorn
+ag-ui-langgraph
